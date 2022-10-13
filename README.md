@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full Stack's course at Digital College and ADS at Senac
+- 🔭 I’m currently working on Full Stack's course at Digital College and Systems Analysis and Development at Senac
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on new challenges
 - 🤔 I’m looking for help with React and Node.js
