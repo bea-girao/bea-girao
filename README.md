@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about JS, CSS, HTML, OOP, Java, relational DB, human sciences and others. Feel free to look at my repository
 - 📫 How to reach me: ``` https://www.linkedin.com/in/anabeatrizgirao/ ´´´
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I have a three color cat that is perfection and I love heavy and fusion music.
+- ⚡ Fun facts: I have a three color cat that is a perfection. I also love heavy, fusion and classical music.
