@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I have a three color cat that is a perfection. I also love heavy, fusion and classical music.
 
-<div align="center">
-  <a href="https://github.com/bea-girao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bea-girao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-girao&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+<a href="https://github.com/bea-girao">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-girao&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bea-girao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
